@@ -14,5 +14,6 @@ http://archive.ics.uci.edu/dataset/291/airfoil+self+noise
 ![Other variables relating to pressure](https://github.com/GloomyWraith/MachineLearning/blob/main/Other%20Variables.png)
 
 ## Simple DFT on frequency
+  Real and imaginary parts
 
 ![Frequency DFT](https://github.com/GloomyWraith/MachineLearning/blob/main/freqDFTcomplex.png)
